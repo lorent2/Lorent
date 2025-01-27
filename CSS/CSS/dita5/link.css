@@ -1,0 +1,42 @@
+
+
+.class:link {
+    color: blue;
+}
+
+.class:hover{
+    font-size: 25px;
+    color: blueviolet;
+}
+
+.class:visited{
+    color: red;
+}
+
+.class:active{
+    color:yellow;
+}
+
+
+
+
+
+#id:link{
+    color: blue;
+    text-decoration: none;
+}
+#id:hover{
+ color: blueviolet;
+ text-decoration: underline;
+ 
+ 
+}
+
+
+#id:visited{
+    color: red;
+}
+
+#id:active{
+    color: yellow;
+}

@@ -1,0 +1,30 @@
+/* Prapavija */
+body{background-color:lightblue;
+background-image: url("vikings.jpg");
+background-repeat: no-repeat;
+/* background-position: 200px 200px; */
+background-size: cover;
+background-attachment: scroll;
+}
+
+#div{
+    border: 1px solid black;
+    width: 600px;
+    height:500px;
+    background-image: url("ragnar.jpg");
+    float: right;
+   background-repeat: no-repeat ;
+    background-size: cover;
+    background-attachment: scroll;
+
+}
+
+#div1{
+    border: 1px solid black;
+    width: 400px;
+    height:200px;
+    background:  aqua url('ragnar.jpg') no-repeat scroll;
+    color: aqua;
+
+}
+

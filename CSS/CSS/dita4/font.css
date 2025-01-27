@@ -1,0 +1,111 @@
+/*Font style and family*/
+#p1 {
+    font-family: "Noto Serif Telugu", serif;
+    /* font-style:normal; */
+    /* font-style:oblique; */
+    font-style: italic;
+  }
+  
+  /*Font variant*/
+  #p2 {
+    font-variant: small-caps;
+    /*font-variant: normal;*/
+  }
+  
+  /*Font weight*/
+  
+  #p3 {
+    font-weight: bold;
+    /* font-weight: 900; */
+    /*    font-weight: bolder*/
+  }
+  
+  /*Font size*/
+  
+  #p4 {
+    font-size: 4vw;
+    /*    font-size: 50px;*/
+    /*    font-size: 150%;*/
+    /* font-size: large; */
+    /* font-size: small; */
+    /*    font-size: 1cm;*/
+  }
+  
+  /*ShortHand*/
+  
+  #p5 {
+    font: bold italic small-caps 10vw georgian;
+    width: 150px;
+  }
+  
+  /*Google Fonts*/
+  
+  #p {
+      font-family: "Playwrite PE Guides", serif;
+      font-weight: 400;
+      font-style: normal;
+  }
+
+ #p6{
+    font-family: "Roboto Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+
+  
+  /*Text align*/
+  
+  #p7 {
+    font-family: "Dancing Script", cursive;
+    text-indent: 20px;
+    text-align: justify;
+    height: 250px;
+    width: 300px;
+  }
+  
+  /*Text Color and direction*/
+  
+  #p8 {
+    color: aqua;
+    direction: rtl;
+  }
+  
+  /*Text Indent*/
+  
+  #p9 {
+    text-indent: 20px;
+    /*    text-indent: 5cm*/
+  }
+  /*Text Spacing*/
+  
+  #p10 {
+    letter-spacing: 5px;
+    word-spacing: 15px;
+    /* white-space: pre; */
+  }
+  
+  /*Text Decoration*/
+  
+  #p11 {
+    text-decoration: underline;
+    /* text-decoration: line-through; */
+    /*    text-decoration: overline;*/
+  }
+  
+  /*Text Transform*/
+  
+  #p12 {
+    text-transform: capitalize;
+    /*    text-transform:lowercase;*/
+    /*    text-transform:uppercase;*/
+    /*    text-transform:none;*/
+  }
+  
+  /*Text Shadow*/
+  
+  #p13 {
+    font-size: 70px;
+    text-shadow: 5px 4px 8px red;
+  }
+  
