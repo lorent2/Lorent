@@ -1,0 +1,149 @@
+#divk{
+    border: dotted blue;
+    width: 500px;
+    height: 700px;
+    margin: auto;
+}
+#div1{
+    border-bottom: dotted blue;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#h1{
+    margin-left: 10px;
+}
+#p1{
+    display: inline;
+    font-size: 30px;
+    color:aqua;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+#p2{
+    font-weight: bold;
+}
+#label1{
+    display: block;
+    font-weight: bold;
+    margin-left: 10px;
+    height: 20px;
+    }
+#input1{
+    width: 430px;
+    height: 25px;
+    margin-left: 10px;
+}
+#input2{
+    width: 430px;
+    height: 25px;
+    margin-left: 10px;
+}
+#input3{
+   width: ;
+    height: 25px;
+    margin-left: 10px;
+    
+}
+#label2{
+    
+    font-weight: bold;
+    margin-left: 10px;
+    
+    }
+   
+    #label3{
+        
+        font-weight: bold;
+         margin-left: 150px
+        
+
+        }
+        #label4{
+           
+            font-weight: bold;
+            margin-left: 79px;
+            
+            }
+        #input4{
+            width: 70px;
+            height: 25px;
+            margin-left: 10px;
+          
+        }
+
+        #divi{
+            margin-left: 20px;
+        }
+       #sel1{
+        width: 190px;
+        height: 30px;
+       }
+
+       #divi2{
+        margin-left: 20px;
+       }
+       #sel2{
+        width: 190px;
+        height: 30px;
+       }
+
+       #divi3{
+        margin-left: 20px;
+       }
+
+       #sel3{
+        width: 90px;
+        height: 30px;
+       }
+
+       #label8{
+        margin-left: 64px;
+       }
+
+       #sel4{
+        margin-left:5px ;
+        width: 90px;
+        height: 30px;
+       }
+
+       #label9{
+        margin-left: 175px;
+       }
+
+       #sel5{
+        margin-left: 54px;
+        width: 190px;
+        height: 30px;
+       }
+
+       #label10{
+        margin-left:104px;
+       }
+
+       #sel6{
+        margin-left: 55px;
+        width: 90px;
+        height: 30px;
+       }
+
+       #label11{
+        margin-left:70px;
+       }
+
+       #sel7{
+        margin-left: 5px;
+        width: 90px;
+        height: 30px;
+       }
+
+       #but{
+        margin: 20px;
+        width: 460px;
+        height: 40px;
+        background-color:lightblue;
+        border: 0;
+        }
+         
+        #but:hover{
+            background-color: green;
+         }

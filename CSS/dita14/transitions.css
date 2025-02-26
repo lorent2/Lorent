@@ -1,0 +1,85 @@
+#div1{
+    width: 100px;
+    height: 100px;
+    background: #990000;
+    color: white;
+    transition: 1.3s;
+    font-size: 20px;
+}
+
+#div1:hover{
+    width: 300px;
+    height:300px;
+    background: #000099;
+    color: red;
+    padding: 50px;
+}
+
+#div2{
+    width: 100px;
+    height: 100px;
+    background: #990000;
+    color: white;
+    transition: 10s, width 2s, height 3s, background 1s;
+    font-size: 20px;
+}
+
+#div2:hover{
+    width: 300px;
+    height:300px;
+    background: #000099;
+    color: red;
+    padding: 50px;
+}
+
+#div3{
+    width: 100px;
+    height: 100px;
+    background: #990000;
+    color: white;
+    transition: 1.3s;
+    font-size: 20px;
+    transition-timing-function: ease;
+}
+
+#div3:hover{
+    width: 2400px;
+    height:300px;
+    background: #000099;
+    color: red;
+    padding: 50px;
+}
+
+#div4{
+    width: 100px;
+    height: 100px;
+    background: #990000;
+    color: white;
+    transition: 1.3s;
+    font-size: 20px;
+}
+
+#div4:hover{
+    width: 300px;
+    height:300px;
+    background: #000099;
+    color: red;
+    padding: 50px;
+}
+
+#div5{
+    width: 100px;
+    height: 100px;
+    background: #990000;
+    color: white;
+    transition: width 4s linear 1s;
+    font-size: 20px;
+}
+
+#div5:hover{
+    width: 300px;
+    height:300px;
+    background: #000099;
+    color: red;
+    padding: 50px;
+}
