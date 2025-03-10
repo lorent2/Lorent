@@ -1,0 +1,9 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+img{
+    image-repeat: repeat;
+    width: 60px;
+}

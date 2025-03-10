@@ -1,0 +1,40 @@
+/* Prapavija */
+body{background-color:lightblue;
+background-image: url("vikings.jpg");
+background-repeat: no-repeat;
+/* background-position: 200px 200px; */
+background-size: cover;
+<<<<<<< HEAD
+background-attachment: scroll;
+}
+
+=======
+background-attachment:fixed ;}
+>>>>>>> be4c398377b44c89b8a2d126e08ff04ea24f9292
+#div{
+    border: 1px solid black;
+    width: 600px;
+    height:500px;
+    background-image: url("ragnar.jpg");
+    float: right;
+<<<<<<< HEAD
+   background-repeat: no-repeat ;
+    background-size: cover;
+    background-attachment: scroll;
+
+}
+
+#div1{
+    border: 1px solid black;
+    width: 400px;
+    height:200px;
+    background:  aqua url('ragnar.jpg') no-repeat scroll;
+    color: aqua;
+=======
+    margin-top: 278px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+>>>>>>> be4c398377b44c89b8a2d126e08ff04ea24f9292
+
+}
+

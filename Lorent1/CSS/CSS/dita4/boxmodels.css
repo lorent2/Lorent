@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:blueviolet ;
+}
+
+p{
+    color: white;
+    background-color: black;
+    border: 2px dotted white;
+}
+#p1{
+    width: 300px;
+    padding: 30px;
+    margin:100px 40px 60px 90px;
+}
+#p2{
+    width: 300px;
+    padding: 30px;
+    margin:100px 40px 60px 90px;
+}
+#p3{
+    width: 300px;
+    padding: 30px;
+    margin:100px 40px 60px 90px;
+    padding: 10px 30px 50px 200px;
+}
+#p4{
+    width: 300px;
+    padding: 30px;
+    margin:100px 40px 60px 90px;
+    padding: 10px 30px 50px 200px;
+    border: 3px solid white;
+    outline: 6px solid red;
+    cursor: pointer;
+    
+}
+#p4:hover{
+    background-color: blue;
+}

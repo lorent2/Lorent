@@ -1,0 +1,103 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color:aqua ;
+}
+p{
+    background-color: blue;
+    border-style: dotted;
+    font-family:cursive ;
+}
+#p1{
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 30px;
+    padding-left: 50px;
+}
+#p2{
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 30px;
+    padding-bottom: 50px;
+}
+#p3{
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 30px;
+    padding-right: 50px;
+}
+#p1{
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 30px;
+    padding-left: 50px;
+}
+#p4{
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 30px;
+    padding-left: 50px;
+    outline: 7px solid red;
+    outline-offset: 5px;
+}
+#p5{
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 30px;
+    padding-left: 50px;
+}
+#p55{
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 30px;
+    padding-left: 50px;
+}
+#p6{
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 30px;
+    padding-left: 50px;
+}
+#p7{
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 30px;
+    padding-left: 50px;
+}
+#p8{
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 30px;
+    padding-left: 50px;
+}
+#p9{
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 30px;
+    padding-left: 50px;
+}
+#p10{
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 30px;
+    padding-left: 50px;
+}
+#p11{
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 30px;
+    padding-left: 50px;
+}
