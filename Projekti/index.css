@@ -1,22 +1,63 @@
-nav ul{
-    list-style: none;
-    background-color: black;
-    color: white;
-    margin: 10px;
-    padding: 10px;
+*{
+    margin: 0px;
+    padding: 0px;
 }
 
-li a{
-    display: inline-block;
-    padding: 5px;
-    margin: 10px;
-    color: white;
+#id1{
+    align-items:  center;
 }
- 
-ul li{
-    display: inline-block;
+
+
+#div1{
+    background-color: rgba(255, 8, 0, 0.521);
+    align-content: center;
+    
 }
 nav{
-    display: flex;
-    justify-content: space-between;
+    align-content: center;
+    float: right;
+    justify-content: flex-end;
+
 }
+
+nav ul{
+    list-style-type: none;
+    float: right;
+    display: flex;
+    padding: 15px;
+    margin-right: 10px;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+}
+
+ul li{
+    margin-right: 15px;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin-left: 100px;
+}
+li a { 
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+    font-size: 19px;
+    
+}
+
+
+li:hover{
+    color:black ;
+    text-decoration: underline seashell;
+    background-color: blue;
+
+}
+
+
+
+
